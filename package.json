@@ -1,5 +1,5 @@
 {
-  "name": "shortid2",
+  "name": "@kvsrohit/shortid",
   "version": "1.0.0",
   "description": "minimal replacement of shortid module",
   "main": "index.js",

@@ -1,4 +1,4 @@
-# shortid2
+# @kvsrohit/shortid
 
 _ShortId_ (https://www.npmjs.com/package/shortid) has been an amazing module to generate short non-sequential url-friendly unique ids.
 However it is no longer maintained and suggests using _NanoId_ (https://www.npmjs.com/package/nanoid) as replacement.
@@ -11,7 +11,7 @@ This project uses _NanoId_ and provides same interface as _ShortId_ so that it c
 ### Usage
 
 ```js
-const shortid = require('shortid2');
+const shortid = require('@kvsrohit/shortid');
 
 console.log(shortid.generate());
 ```
@@ -27,7 +27,7 @@ _id: {
 ### API
 
 ```js
-const shortid = require('shortid2');
+const shortid = require('@kvsrohit/shortid');
 ```
 
 ---------------------------------------
